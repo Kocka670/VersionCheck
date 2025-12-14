@@ -1,5 +1,5 @@
 {
-  "update": true,
+  "update": false,
   "versions": [
     {
       "version": "1.0.1",
