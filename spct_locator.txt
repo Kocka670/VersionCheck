@@ -3,11 +3,19 @@
   "versions": [
     {
       "version": "1.0.1",
-      "news": "Added multiframe frameworks"
+      "changes": {
+        "Added": [
+          "Multiframe framework support"
+        ]
+      }
     },
     {
       "version": "1.0.2",
-      "news": "Fix callbacks"
+      "changes": {
+        "Fixed": [
+          "Callbacks not responding correctly"
+        ]
+      }
     }
   ]
 }
