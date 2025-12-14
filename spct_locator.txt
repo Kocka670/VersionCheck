@@ -3,7 +3,7 @@
   "versions": [
     {
       "version": "1.0.1",
-      "news": "Added multiframe frameworks", "NIGGA"
+      "news": "Added multiframe frameworks", "XXXX"
     },
     {
       "version": "1.0.2",
