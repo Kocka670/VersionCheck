@@ -1,2 +1,1 @@
-# VersionCheck-SPCT
-VersionCheck SPCT
+
